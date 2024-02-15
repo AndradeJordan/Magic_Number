@@ -1,0 +1,14 @@
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\bin\Debug\net8.0\Nombre_Magique.exe
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\bin\Debug\net8.0\Nombre_Magique.deps.json
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\bin\Debug\net8.0\Nombre_Magique.runtimeconfig.json
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\bin\Debug\net8.0\Nombre_Magique.dll
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\bin\Debug\net8.0\Nombre_Magique.pdb
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.AssemblyInfoInputs.cache
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.AssemblyInfo.cs
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.csproj.CoreCompileInputs.cache
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.dll
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\refint\Nombre_Magique.dll
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.pdb
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.genruntimeconfig.cache
+C:\Users\andra\Desktop\learning\Csharp\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\ref\Nombre_Magique.dll
